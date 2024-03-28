@@ -4,35 +4,103 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a07d7377-1efe-4032-a3b2-3d631f34ff11" name="Changes" comment="" />
+    <list default="true" id="a07d7377-1efe-4032-a3b2-3d631f34ff11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/src/main/resources/prolog.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ai_systems/lab3/src/test/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mispi/HttpUnit/HttpUnit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mispi/lab3/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/second/SecondMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/second/tree/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/ThirdMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/entity/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/entity/Whale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/entity/enums/AwarenessState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/entity/enums/CreatureType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/entity/enums/EmotionalState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/entity/enums/PositionState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/exception/IllegalAwarenessStateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/exception/IllegalEmotionalStateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/third/interfaces/Awarenessable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/first/math/SecansTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/second/tree/RedBlackTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/third/entity/WhaleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web_labs/lab3/lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web_labs/lab1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_labs/lab1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web_labs/lab1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_labs/lab1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web_labs/lab1/CookieCleaner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web_labs/lab1/Row.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_labs/lab1/Row.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web_labs/lab1/Rows.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_labs/lab1/Rows.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web_labs/lab1/handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_labs/lab1/handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web_labs/lab1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_labs/lab1/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web_labs/lab1/validator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../web_labs/lab1/validator.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2eGnHgtFo9TVwvU2rC1e9jSLiRV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.first.math" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThirdMain">
+    <configuration name="ThirdMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.third.ThirdMain" />
       <module name="lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.third.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -40,9 +108,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhaleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.third.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.third.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.example.third.entity.WhaleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhaleTest.checkAwareness" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.third.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.third.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.example.third.entity.WhaleTest" />
+      <option name="METHOD_NAME" value="checkAwareness" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhaleTest.checkIllegalAwarenessState" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.third.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.third.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.example.third.entity.WhaleTest" />
+      <option name="METHOD_NAME" value="checkIllegalAwarenessState" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhaleTest.checkUpdateEmotionalState" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.third.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.third.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.example.third.entity.WhaleTest" />
+      <option name="METHOD_NAME" value="checkUpdateEmotionalState" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ThirdMain" />
+        <item itemvalue="JUnit.WhaleTest" />
+        <item itemvalue="JUnit.WhaleTest.checkUpdateEmotionalState" />
+        <item itemvalue="JUnit.WhaleTest.checkIllegalAwarenessState" />
+        <item itemvalue="JUnit.WhaleTest.checkAwareness" />
       </list>
     </recent_temporary>
   </component>
@@ -54,7 +189,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711539697322</updated>
+      <workItem from="1711539698342" duration="5107000" />
+      <workItem from="1711544833154" duration="10172000" />
+      <workItem from="1711559127024" duration="1243000" />
+      <workItem from="1711563829755" duration="134000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
